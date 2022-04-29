@@ -1,7 +1,8 @@
 # DS_Project_1
 Data Science Project #1: Sports Betting 
 
-1) Project Planning
+1) Project Planning-
+  
   A. make it accessible to work on (i.e. github)
   B. make it appropriately scoped
   C. make it accessible to automate parts
